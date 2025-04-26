@@ -19,4 +19,3 @@ It implements a simple Streamlit web application that performs both speech-to-te
 OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/316ee138-ba8a-4c36-b897-af6b23ce8864)
-
